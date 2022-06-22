@@ -12,4 +12,4 @@ aux_links:
 # Aux link will open a new tab
 aux_links_new_tab: true
 
-url: "https://docs.nitradojs.xyz/"
+url: "https://docs.nitradojs.xyz"
